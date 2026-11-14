@@ -1,0 +1,8 @@
+{
+  "name": "Alido",
+  "description": "Interactive 3D Judo technique studio featuring two realistic articulated judoka, timeline scrubbing, biomechanical phase breakdowns, and 360-degree camera control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
